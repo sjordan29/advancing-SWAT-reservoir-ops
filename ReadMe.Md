@@ -7,10 +7,10 @@ Jordan SM, Quinn JD, Zaniolo, M, Giuliani M, Castelletti A. 2022. Advancing rese
 reduce socio-ecological tradeoffs. In prep.
 
 ## Folder Structure
-`Optimization`: contains the wrapper used to optimize existing and updated reservoir operations using Borg (license required). 
-`OmoScenarios`: setting up and running SWAT scenarios for each optimized reservoir operating policy under historical and climate change conditions. 
-`SWATfiles`: relevant assets for running SWAT and calculating objectives for both existing and updated SWAT reservoir operations. 
-`MakeFigures`: code used to make figures for the paper.
+* `Optimization`: contains the wrapper used to optimize existing and updated reservoir operations using Borg (license required). 
+* `OmoScenarios`: setting up and running SWAT scenarios for each optimized reservoir operating policy under historical and climate change conditions. 
+* `SWATfiles`: relevant assets for running SWAT and calculating objectives for both existing and updated SWAT reservoir operations. 
+* `MakeFigures`: code used to make figures for the paper.
 
 
 ## Additional Code
