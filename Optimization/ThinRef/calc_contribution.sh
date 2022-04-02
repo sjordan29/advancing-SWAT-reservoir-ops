@@ -1,0 +1,1 @@
+java -cp MOEAFramework-2.13-Demo.jar org.moeaframework.analysis.sensitivity.SetContribution -e 8.0,0.03,1.000,3800000.0,150000.0 -r thin_reference.ref DPS*.reference SWAT*.reference > contribution_step94.txt

@@ -1,0 +1,2 @@
+cp DPS_step94_thinned.referenceDVO /sfs/lustre/bahamut/scratch/smj5vup/omoScenarios/BestPolicyEachObjCC/DPS/DPS_ReferenceSet.reference
+cp SWAT_step94_thinned.referenceDVO /sfs/lustre/bahamut/scratch/smj5vup/omoScenarios/BestPolicyEachObjCC/SWAT/SWAT_ReferenceSet.reference
